@@ -1,18 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f9337d-0e61-4604-89ee-54ebb5ec1f6e" name="Changes" comment="" />
+    <list default="true" id="d2f9337d-0e61-4604-89ee-54ebb5ec1f6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CalculadoraSimples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculoDeDesconto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassificaçaoDeTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParOuImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SalarioComBonificação.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerificaçãoDeDiasDaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerificaçãoDeLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerificaçãodeAprovaçãoEscolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerificaçãodeNúmero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassificaçãoDeNotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassificaçãoDeNotas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VerificaçãodeMaioridade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VerificaçãodeMaioridade.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JorgeCampiol&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JorgeCampiol/Atividade2Condicoes.git&quot;,
+    &quot;accountId&quot;: &quot;c9803e06-f673-47bd-86ec-773200837c3c&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2lJ6J6hB65FeGUZgkbfU1BNl5o6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,9 +59,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalculadoraSimples.executor": "Run",
+    "Application.CalculoDeDesconto.executor": "Run",
+    "Application.ClassificaçaoDeTemperatura.executor": "Run",
+    "Application.ClassificaçãoDeNotas.executor": "Run",
+    "Application.ParOuImpar.executor": "Run",
+    "Application.SalarioComBonificação.executor": "Run",
+    "Application.VerificaçãoDeDiasDaSemana.executor": "Run",
+    "Application.VerificaçãoDeLogin.executor": "Run",
+    "Application.VerificaçãodeAprovaçãoEscolar.executor": "Run",
+    "Application.VerificaçãodeMaioridade.executor": "Run",
+    "Application.VerificaçãodeNúmero.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -44,7 +97,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724885762285</updated>
-      <workItem from="1724885763380" duration="2000" />
+      <workItem from="1724885763380" duration="4022000" />
+      <workItem from="1725028088752" duration="2673000" />
     </task>
     <servers />
   </component>
